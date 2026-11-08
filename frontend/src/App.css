@@ -1,0 +1,4 @@
+.auth-card form { display: flex; flex-direction: column; }
+.auth-footer { text-align: center; }
+.subtitle { color: var(--muted); }
+.loading { text-align: center; }
