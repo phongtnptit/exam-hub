@@ -1,0 +1,14 @@
+.git
+**/node_modules
+**/.env
+**/.env.*
+!**/.env.example
+**/dist
+**/dist-*
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+*.log
+frontend
+docs
